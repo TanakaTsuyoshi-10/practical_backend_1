@@ -1,0 +1,4 @@
+.env
+# Python仮想環境
+venv/
+backend_env/
